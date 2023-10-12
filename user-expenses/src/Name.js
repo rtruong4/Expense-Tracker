@@ -12,7 +12,7 @@ export const Name = ({ name, index, removeName, setEdit }) => {
     <div className="Name">
       <p>
         <span className="name-title">Employee Name: </span> {name.first}{" "}
-        {name.last} | <span className="expense-title">Total Expenses:</span>{" "}
+        {name.last} | <span className="expense-title">Total Expenses:</span> $
         {name.totalExpense}{" "}
         <button class="remove-button" onClick={() => handleRemoveItem(index)}>
           Remove
