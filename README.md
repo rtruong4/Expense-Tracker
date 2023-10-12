@@ -4,7 +4,7 @@ This project is a frontend project which logs a list of users, their expenses, a
 
 ## Steps to run project
 
-- Download files to computer
+- Download files to computer and extract folder
 - Open folder and navigate to user-expenses directory
 - Run 'npm install' then 'npm run start' through command line
 
