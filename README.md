@@ -1,6 +1,7 @@
 # Takehome Project LeanData
 
 This project is a frontend project which logs a list of users, their expenses, and the total cost of their expenses combined. It was implemented with React js using hooks.
+Uploaded with Firebase https://expense-tracker-70e1f.web.app/
 
 ## Steps to run project
 
@@ -12,5 +13,3 @@ This project is a frontend project which logs a list of users, their expenses, a
 
 - UI/UX is extremely barebones trading off for functionality
 - Certain searching methods could possible be faster, but I was unable to implement them due to time constraints
-
-Hey
