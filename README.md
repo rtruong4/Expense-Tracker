@@ -12,3 +12,5 @@ This project is a frontend project which logs a list of users, their expenses, a
 
 - UI/UX is extremely barebones trading off for functionality
 - Certain searching methods could possible be faster, but I was unable to implement them due to time constraints
+
+Hey
